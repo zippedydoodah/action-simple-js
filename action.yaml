@@ -6,7 +6,6 @@ inputs:
     required: true
     default: 'World'
 outputs:
-  js-test: "hello from js"
   time: # id of output
     description: 'The time we greeted you'
 runs:
